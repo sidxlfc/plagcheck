@@ -1,0 +1,19 @@
+LCSS Output:
+
+Line: In principle, even within a single system, they could range from high-performance mainframe computers to small nodes in sensor networks 
+Percentage: 100.0%
+
+Line: Likewise, no assumptions are made on the way that computers are interconnected 
+Percentage: 100.0%
+
+Line:  The main goal of a distributed system is to make it easy for the users (and applications) to access remote resources, and to share them in a controlled and efficient way 
+Percentage: 100.0%
+
+Line:  The main goal of a distributed system is to make it easy for the users (and applications) to access remote resources, and to share them in a controlled and efficient way 
+Percentage: 100.0%
+
+
+Total time to Analyse the file using LCSS Algorithm: 
+134.0ms
+No of comparisons: 1325113
+Plaigarized file percentage: 40%

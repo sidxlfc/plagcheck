@@ -1,0 +1,2422 @@
+Naive Output:
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 19 at line no. 4
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 3 at line no. 6
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 50 at line no. 8
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 51 at line no. 11
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 64 at line no. 12
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 106 at line no. 14
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 1 at line no. 15
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 87 at line no. 16
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 39 at line no. 17
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 55 at line no. 18
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 90 at line no. 19
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 5 at line no. 20
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 31 at line no. 21
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 72 at line no. 24
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 75 at line no. 25
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 121 at line no. 26
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 170 at line no. 28
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 93 at line no. 29
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 4 at line no. 30
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 16 at line no. 31
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 5 at line no. 34
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 10 at line no. 36
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 74 at line no. 38
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 43 at line no. 39
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 13 at line no. 41
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 56 at line no. 42
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 58 at line no. 43
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 88 at line no. 46
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 59 at line no. 47
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 7 at line no. 49
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 74 at line no. 52
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 42 at line no. 56
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 110 at line no. 57
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 55 at line no. 58
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 35 at line no. 59
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 33 at line no. 61
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 89 at line no. 63
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 59 at line no. 71
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 61 at line no. 72
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 91 at line no. 74
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 19 at line no. 81
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 3 at line no. 83
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 50 at line no. 85
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 51 at line no. 88
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 64 at line no. 89
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 106 at line no. 91
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 1 at line no. 92
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 87 at line no. 93
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 39 at line no. 94
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 55 at line no. 95
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 90 at line no. 96
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 5 at line no. 97
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 31 at line no. 98
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 72 at line no. 101
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 75 at line no. 102
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 121 at line no. 103
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 170 at line no. 105
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 93 at line no. 106
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 4 at line no. 107
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 16 at line no. 108
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 5 at line no. 111
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 10 at line no. 113
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 74 at line no. 115
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 43 at line no. 116
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 13 at line no. 118
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 56 at line no. 119
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 58 at line no. 120
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 88 at line no. 123
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 59 at line no. 124
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 7 at line no. 126
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 74 at line no. 129
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 42 at line no. 133
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 110 at line no. 134
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 55 at line no. 135
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 35 at line no. 136
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 33 at line no. 138
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 89 at line no. 140
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 59 at line no. 148
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 61 at line no. 149
+
+Pattern: Kampf das wenigste an heldischen Tugenden ihr eigen nennen oder der verlogenen 
+In file: Input/BookClean2300.txt
+Found at index 91 at line no. 151
+
+Pattern: In principle, even within a single system, they could range from high-performance mainframe computers to small nodes in sensor networks
+In file: Input/BookClean2300.txt
+Found at index 2 at line no. 8
+
+Pattern: In principle, even within a single system, they could range from high-performance mainframe computers to small nodes in sensor networks
+In file: Input/BookClean2300.txt
+Found at index 2 at line no. 11
+
+Pattern: In principle, even within a single system, they could range from high-performance mainframe computers to small nodes in sensor networks
+In file: Input/BookClean2300.txt
+Found at index 13 at line no. 12
+
+Pattern: In principle, even within a single system, they could range from high-performance mainframe computers to small nodes in sensor networks
+In file: Input/BookClean2300.txt
+Found at index 49 at line no. 14
+
+Pattern: In principle, even within a single system, they could range from high-performance mainframe computers to small nodes in sensor networks
+In file: Input/BookClean2300.txt
+Found at index 28 at line no. 16
+
+Pattern: In principle, even within a single system, they could range from high-performance mainframe computers to small nodes in sensor networks
+In file: Input/BookClean2300.txt
+Found at index 11 at line no. 18
+
+Pattern: In principle, even within a single system, they could range from high-performance mainframe computers to small nodes in sensor networks
+In file: Input/BookClean2300.txt
+Found at index 18 at line no. 24
+
+Pattern: In principle, even within a single system, they could range from high-performance mainframe computers to small nodes in sensor networks
+In file: Input/BookClean2300.txt
+Found at index 30 at line no. 25
+
+Pattern: In principle, even within a single system, they could range from high-performance mainframe computers to small nodes in sensor networks
+In file: Input/BookClean2300.txt
+Found at index 63 at line no. 26
+
+Pattern: In principle, even within a single system, they could range from high-performance mainframe computers to small nodes in sensor networks
+In file: Input/BookClean2300.txt
+Found at index 112 at line no. 28
+
+Pattern: In principle, even within a single system, they could range from high-performance mainframe computers to small nodes in sensor networks
+In file: Input/BookClean2300.txt
+Found at index 18 at line no. 29
+
+Pattern: In principle, even within a single system, they could range from high-performance mainframe computers to small nodes in sensor networks
+In file: Input/BookClean2300.txt
+Found at index 1 at line no. 42
+
+Pattern: In principle, even within a single system, they could range from high-performance mainframe computers to small nodes in sensor networks
+In file: Input/BookClean2300.txt
+Found at index 41 at line no. 46
+
+Pattern: In principle, even within a single system, they could range from high-performance mainframe computers to small nodes in sensor networks
+In file: Input/BookClean2300.txt
+Found at index 8 at line no. 47
+
+Pattern: In principle, even within a single system, they could range from high-performance mainframe computers to small nodes in sensor networks
+In file: Input/BookClean2300.txt
+Found at index 10 at line no. 52
+
+Pattern: In principle, even within a single system, they could range from high-performance mainframe computers to small nodes in sensor networks
+In file: Input/BookClean2300.txt
+Found at index 61 at line no. 57
+
+Pattern: In principle, even within a single system, they could range from high-performance mainframe computers to small nodes in sensor networks
+In file: Input/BookClean2300.txt
+Found at index 10 at line no. 58
+
+Pattern: In principle, even within a single system, they could range from high-performance mainframe computers to small nodes in sensor networks
+In file: Input/BookClean2300.txt
+Found at index 25 at line no. 63
+
+Pattern: In principle, even within a single system, they could range from high-performance mainframe computers to small nodes in sensor networks
+In file: Input/BookClean2300.txt
+Found at index 8 at line no. 71
+
+Pattern: In principle, even within a single system, they could range from high-performance mainframe computers to small nodes in sensor networks
+In file: Input/BookClean2300.txt
+Found at index 38 at line no. 74
+
+Pattern: In principle, even within a single system, they could range from high-performance mainframe computers to small nodes in sensor networks
+In file: Input/BookClean2300.txt
+Found at index 2 at line no. 85
+
+Pattern: In principle, even within a single system, they could range from high-performance mainframe computers to small nodes in sensor networks
+In file: Input/BookClean2300.txt
+Found at index 2 at line no. 88
+
+Pattern: In principle, even within a single system, they could range from high-performance mainframe computers to small nodes in sensor networks
+In file: Input/BookClean2300.txt
+Found at index 13 at line no. 89
+
+Pattern: In principle, even within a single system, they could range from high-performance mainframe computers to small nodes in sensor networks
+In file: Input/BookClean2300.txt
+Found at index 49 at line no. 91
+
+Pattern: In principle, even within a single system, they could range from high-performance mainframe computers to small nodes in sensor networks
+In file: Input/BookClean2300.txt
+Found at index 28 at line no. 93
+
+Pattern: In principle, even within a single system, they could range from high-performance mainframe computers to small nodes in sensor networks
+In file: Input/BookClean2300.txt
+Found at index 11 at line no. 95
+
+Pattern: In principle, even within a single system, they could range from high-performance mainframe computers to small nodes in sensor networks
+In file: Input/BookClean2300.txt
+Found at index 18 at line no. 101
+
+Pattern: In principle, even within a single system, they could range from high-performance mainframe computers to small nodes in sensor networks
+In file: Input/BookClean2300.txt
+Found at index 30 at line no. 102
+
+Pattern: In principle, even within a single system, they could range from high-performance mainframe computers to small nodes in sensor networks
+In file: Input/BookClean2300.txt
+Found at index 63 at line no. 103
+
+Pattern: In principle, even within a single system, they could range from high-performance mainframe computers to small nodes in sensor networks
+In file: Input/BookClean2300.txt
+Found at index 112 at line no. 105
+
+Pattern: In principle, even within a single system, they could range from high-performance mainframe computers to small nodes in sensor networks
+In file: Input/BookClean2300.txt
+Found at index 18 at line no. 106
+
+Pattern: In principle, even within a single system, they could range from high-performance mainframe computers to small nodes in sensor networks
+In file: Input/BookClean2300.txt
+Found at index 1 at line no. 119
+
+Pattern: In principle, even within a single system, they could range from high-performance mainframe computers to small nodes in sensor networks
+In file: Input/BookClean2300.txt
+Found at index 41 at line no. 123
+
+Pattern: In principle, even within a single system, they could range from high-performance mainframe computers to small nodes in sensor networks
+In file: Input/BookClean2300.txt
+Found at index 8 at line no. 124
+
+Pattern: In principle, even within a single system, they could range from high-performance mainframe computers to small nodes in sensor networks
+In file: Input/BookClean2300.txt
+Found at index 10 at line no. 129
+
+Pattern: In principle, even within a single system, they could range from high-performance mainframe computers to small nodes in sensor networks
+In file: Input/BookClean2300.txt
+Found at index 61 at line no. 134
+
+Pattern: In principle, even within a single system, they could range from high-performance mainframe computers to small nodes in sensor networks
+In file: Input/BookClean2300.txt
+Found at index 10 at line no. 135
+
+Pattern: In principle, even within a single system, they could range from high-performance mainframe computers to small nodes in sensor networks
+In file: Input/BookClean2300.txt
+Found at index 25 at line no. 140
+
+Pattern: In principle, even within a single system, they could range from high-performance mainframe computers to small nodes in sensor networks
+In file: Input/BookClean2300.txt
+Found at index 8 at line no. 148
+
+Pattern: In principle, even within a single system, they could range from high-performance mainframe computers to small nodes in sensor networks
+In file: Input/BookClean2300.txt
+Found at index 38 at line no. 151
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 37 at line no. 0
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 56 at line no. 1
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 2 at line no. 3
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 47 at line no. 4
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 53 at line no. 5
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 61 at line no. 6
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 58 at line no. 7
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 93 at line no. 8
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 51 at line no. 9
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 47 at line no. 10
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 87 at line no. 11
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 70 at line no. 12
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 181 at line no. 14
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 68 at line no. 15
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 138 at line no. 16
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 98 at line no. 17
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 132 at line no. 18
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 77 at line no. 19
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 52 at line no. 20
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 70 at line no. 21
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 130 at line no. 24
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 154 at line no. 25
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 164 at line no. 26
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 168 at line no. 28
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 81 at line no. 30
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 70 at line no. 31
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 73 at line no. 34
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 38 at line no. 35
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 64 at line no. 36
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 8 at line no. 37
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 104 at line no. 38
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 96 at line no. 39
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 43 at line no. 41
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 132 at line no. 42
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 61 at line no. 43
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 166 at line no. 46
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 139 at line no. 47
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 45 at line no. 48
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 64 at line no. 49
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 127 at line no. 52
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 22 at line no. 55
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 58 at line no. 56
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 176 at line no. 57
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 78 at line no. 58
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 112 at line no. 59
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 35 at line no. 60
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 82 at line no. 61
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 56 at line no. 62
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 27 at line no. 63
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 40 at line no. 64
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 139 at line no. 71
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 117 at line no. 72
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 59 at line no. 73
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 156 at line no. 74
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 42 at line no. 75
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 72 at line no. 76
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 37 at line no. 77
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 56 at line no. 78
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 2 at line no. 80
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 47 at line no. 81
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 53 at line no. 82
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 61 at line no. 83
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 58 at line no. 84
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 93 at line no. 85
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 51 at line no. 86
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 47 at line no. 87
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 87 at line no. 88
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 70 at line no. 89
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 181 at line no. 91
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 68 at line no. 92
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 138 at line no. 93
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 98 at line no. 94
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 132 at line no. 95
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 77 at line no. 96
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 52 at line no. 97
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 70 at line no. 98
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 130 at line no. 101
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 154 at line no. 102
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 164 at line no. 103
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 168 at line no. 105
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 81 at line no. 107
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 70 at line no. 108
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 73 at line no. 111
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 38 at line no. 112
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 64 at line no. 113
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 8 at line no. 114
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 104 at line no. 115
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 96 at line no. 116
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 43 at line no. 118
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 132 at line no. 119
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 61 at line no. 120
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 166 at line no. 123
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 139 at line no. 124
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 45 at line no. 125
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 64 at line no. 126
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 127 at line no. 129
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 22 at line no. 132
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 58 at line no. 133
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 176 at line no. 134
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 78 at line no. 135
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 112 at line no. 136
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 35 at line no. 137
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 82 at line no. 138
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 56 at line no. 139
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 27 at line no. 140
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 40 at line no. 141
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 139 at line no. 148
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 117 at line no. 149
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 59 at line no. 150
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 156 at line no. 151
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 42 at line no. 152
+
+Pattern:  Chap
+In file: Input/BookClean2300.txt
+Found at index 72 at line no. 153
+
+Pattern:  9
+In file: Input/BookClean2300.txt
+Found at index 4 at line no. 40
+
+Pattern:  9
+In file: Input/BookClean2300.txt
+Found at index 65 at line no. 55
+
+Pattern:  9
+In file: Input/BookClean2300.txt
+Found at index 4 at line no. 117
+
+Pattern:  9
+In file: Input/BookClean2300.txt
+Found at index 65 at line no. 132
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 3 at line no. 6
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 38 at line no. 8
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 2 at line no. 9
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 51 at line no. 11
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 57 at line no. 12
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 83 at line no. 14
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 26 at line no. 16
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 43 at line no. 17
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 32 at line no. 18
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 80 at line no. 19
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 6 at line no. 21
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 35 at line no. 24
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 59 at line no. 25
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 42 at line no. 26
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 167 at line no. 28
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 37 at line no. 29
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 10 at line no. 36
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 79 at line no. 38
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 56 at line no. 42
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 49 at line no. 43
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 72 at line no. 46
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 53 at line no. 47
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 16 at line no. 49
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 33 at line no. 52
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 39 at line no. 56
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 100 at line no. 57
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 35 at line no. 59
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 26 at line no. 61
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 97 at line no. 63
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 48 at line no. 71
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 20 at line no. 72
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 104 at line no. 74
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 3 at line no. 83
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 38 at line no. 85
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 2 at line no. 86
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 51 at line no. 88
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 57 at line no. 89
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 83 at line no. 91
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 26 at line no. 93
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 43 at line no. 94
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 32 at line no. 95
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 80 at line no. 96
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 6 at line no. 98
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 35 at line no. 101
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 59 at line no. 102
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 42 at line no. 103
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 167 at line no. 105
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 37 at line no. 106
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 10 at line no. 113
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 79 at line no. 115
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 56 at line no. 119
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 49 at line no. 120
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 72 at line no. 123
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 53 at line no. 124
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 16 at line no. 126
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 33 at line no. 129
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 39 at line no. 133
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 100 at line no. 134
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 35 at line no. 136
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 26 at line no. 138
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 97 at line no. 140
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 48 at line no. 148
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 20 at line no. 149
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 104 at line no. 151
+
+Pattern:  The main goal of a distributed system is to make it easy for the users (and applications) to access remote resources, and to share them in a controlled and efficient way
+In file: Input/BookClean2300.txt
+Found at index 2 at line no. 19
+
+Pattern:  The main goal of a distributed system is to make it easy for the users (and applications) to access remote resources, and to share them in a controlled and efficient way
+In file: Input/BookClean2300.txt
+Found at index 21 at line no. 57
+
+Pattern:  The main goal of a distributed system is to make it easy for the users (and applications) to access remote resources, and to share them in a controlled and efficient way
+In file: Input/BookClean2300.txt
+Found at index 2 at line no. 96
+
+Pattern:  The main goal of a distributed system is to make it easy for the users (and applications) to access remote resources, and to share them in a controlled and efficient way
+In file: Input/BookClean2300.txt
+Found at index 21 at line no. 134
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 25 at line no. 1
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 65 at line no. 4
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 57 at line no. 5
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 69 at line no. 6
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 22 at line no. 7
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 104 at line no. 8
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 68 at line no. 9
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 117 at line no. 11
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 123 at line no. 12
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 53 at line no. 13
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 149 at line no. 14
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 64 at line no. 15
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 92 at line no. 16
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 109 at line no. 17
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 98 at line no. 18
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 146 at line no. 19
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 55 at line no. 20
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 72 at line no. 21
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 101 at line no. 24
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 125 at line no. 25
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 108 at line no. 26
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 15 at line no. 27
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 233 at line no. 28
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 103 at line no. 29
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 18 at line no. 30
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 59 at line no. 31
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 3 at line no. 32
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 34 at line no. 34
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 76 at line no. 36
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 46 at line no. 37
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 145 at line no. 38
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 57 at line no. 39
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 54 at line no. 41
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 122 at line no. 42
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 115 at line no. 43
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 138 at line no. 46
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 119 at line no. 47
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 65 at line no. 48
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 82 at line no. 49
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 99 at line no. 52
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 38 at line no. 55
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 105 at line no. 56
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 166 at line no. 57
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 60 at line no. 58
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 101 at line no. 59
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 39 at line no. 60
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 92 at line no. 61
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 163 at line no. 63
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 34 at line no. 69
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 55 at line no. 70
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 114 at line no. 71
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 86 at line no. 72
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 23 at line no. 73
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 170 at line no. 74
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 61 at line no. 75
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 30 at line no. 76
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 25 at line no. 78
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 65 at line no. 81
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 57 at line no. 82
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 69 at line no. 83
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 22 at line no. 84
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 104 at line no. 85
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 68 at line no. 86
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 117 at line no. 88
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 123 at line no. 89
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 53 at line no. 90
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 149 at line no. 91
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 64 at line no. 92
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 92 at line no. 93
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 109 at line no. 94
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 98 at line no. 95
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 146 at line no. 96
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 55 at line no. 97
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 72 at line no. 98
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 101 at line no. 101
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 125 at line no. 102
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 108 at line no. 103
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 15 at line no. 104
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 233 at line no. 105
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 103 at line no. 106
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 18 at line no. 107
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 59 at line no. 108
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 3 at line no. 109
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 34 at line no. 111
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 76 at line no. 113
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 46 at line no. 114
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 145 at line no. 115
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 57 at line no. 116
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 54 at line no. 118
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 122 at line no. 119
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 115 at line no. 120
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 138 at line no. 123
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 119 at line no. 124
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 65 at line no. 125
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 82 at line no. 126
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 99 at line no. 129
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 38 at line no. 132
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 105 at line no. 133
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 166 at line no. 134
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 60 at line no. 135
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 101 at line no. 136
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 39 at line no. 137
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 92 at line no. 138
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 163 at line no. 140
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 34 at line no. 146
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 55 at line no. 147
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 114 at line no. 148
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 86 at line no. 149
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 23 at line no. 150
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 170 at line no. 151
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 61 at line no. 152
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 30 at line no. 153
+
+Pattern:  Staates das Vorhandensein eines bestimmten Zusammengehörigkeitsgefühls auf Grund gleichen Wesens und gleicher Art
+In file: Input/BookClean2300.txt
+Found at index 18 at line no. 8
+
+Pattern:  Staates das Vorhandensein eines bestimmten Zusammengehörigkeitsgefühls auf Grund gleichen Wesens und gleicher Art
+In file: Input/BookClean2300.txt
+Found at index 20 at line no. 11
+
+Pattern:  Staates das Vorhandensein eines bestimmten Zusammengehörigkeitsgefühls auf Grund gleichen Wesens und gleicher Art
+In file: Input/BookClean2300.txt
+Found at index 14 at line no. 12
+
+Pattern:  Staates das Vorhandensein eines bestimmten Zusammengehörigkeitsgefühls auf Grund gleichen Wesens und gleicher Art
+In file: Input/BookClean2300.txt
+Found at index 66 at line no. 14
+
+Pattern:  Staates das Vorhandensein eines bestimmten Zusammengehörigkeitsgefühls auf Grund gleichen Wesens und gleicher Art
+In file: Input/BookClean2300.txt
+Found at index 44 at line no. 16
+
+Pattern:  Staates das Vorhandensein eines bestimmten Zusammengehörigkeitsgefühls auf Grund gleichen Wesens und gleicher Art
+In file: Input/BookClean2300.txt
+Found at index 28 at line no. 18
+
+Pattern:  Staates das Vorhandensein eines bestimmten Zusammengehörigkeitsgefühls auf Grund gleichen Wesens und gleicher Art
+In file: Input/BookClean2300.txt
+Found at index 54 at line no. 19
+
+Pattern:  Staates das Vorhandensein eines bestimmten Zusammengehörigkeitsgefühls auf Grund gleichen Wesens und gleicher Art
+In file: Input/BookClean2300.txt
+Found at index 25 at line no. 24
+
+Pattern:  Staates das Vorhandensein eines bestimmten Zusammengehörigkeitsgefühls auf Grund gleichen Wesens und gleicher Art
+In file: Input/BookClean2300.txt
+Found at index 26 at line no. 25
+
+Pattern:  Staates das Vorhandensein eines bestimmten Zusammengehörigkeitsgefühls auf Grund gleichen Wesens und gleicher Art
+In file: Input/BookClean2300.txt
+Found at index 58 at line no. 26
+
+Pattern:  Staates das Vorhandensein eines bestimmten Zusammengehörigkeitsgefühls auf Grund gleichen Wesens und gleicher Art
+In file: Input/BookClean2300.txt
+Found at index 111 at line no. 28
+
+Pattern:  Staates das Vorhandensein eines bestimmten Zusammengehörigkeitsgefühls auf Grund gleichen Wesens und gleicher Art
+In file: Input/BookClean2300.txt
+Found at index 40 at line no. 29
+
+Pattern:  Staates das Vorhandensein eines bestimmten Zusammengehörigkeitsgefühls auf Grund gleichen Wesens und gleicher Art
+In file: Input/BookClean2300.txt
+Found at index 30 at line no. 38
+
+Pattern:  Staates das Vorhandensein eines bestimmten Zusammengehörigkeitsgefühls auf Grund gleichen Wesens und gleicher Art
+In file: Input/BookClean2300.txt
+Found at index 7 at line no. 39
+
+Pattern:  Staates das Vorhandensein eines bestimmten Zusammengehörigkeitsgefühls auf Grund gleichen Wesens und gleicher Art
+In file: Input/BookClean2300.txt
+Found at index 11 at line no. 42
+
+Pattern:  Staates das Vorhandensein eines bestimmten Zusammengehörigkeitsgefühls auf Grund gleichen Wesens und gleicher Art
+In file: Input/BookClean2300.txt
+Found at index 30 at line no. 43
+
+Pattern:  Staates das Vorhandensein eines bestimmten Zusammengehörigkeitsgefühls auf Grund gleichen Wesens und gleicher Art
+In file: Input/BookClean2300.txt
+Found at index 59 at line no. 46
+
+Pattern:  Staates das Vorhandensein eines bestimmten Zusammengehörigkeitsgefühls auf Grund gleichen Wesens und gleicher Art
+In file: Input/BookClean2300.txt
+Found at index 35 at line no. 47
+
+Pattern:  Staates das Vorhandensein eines bestimmten Zusammengehörigkeitsgefühls auf Grund gleichen Wesens und gleicher Art
+In file: Input/BookClean2300.txt
+Found at index 24 at line no. 52
+
+Pattern:  Staates das Vorhandensein eines bestimmten Zusammengehörigkeitsgefühls auf Grund gleichen Wesens und gleicher Art
+In file: Input/BookClean2300.txt
+Found at index 79 at line no. 57
+
+Pattern:  Staates das Vorhandensein eines bestimmten Zusammengehörigkeitsgefühls auf Grund gleichen Wesens und gleicher Art
+In file: Input/BookClean2300.txt
+Found at index 27 at line no. 58
+
+Pattern:  Staates das Vorhandensein eines bestimmten Zusammengehörigkeitsgefühls auf Grund gleichen Wesens und gleicher Art
+In file: Input/BookClean2300.txt
+Found at index 8 at line no. 59
+
+Pattern:  Staates das Vorhandensein eines bestimmten Zusammengehörigkeitsgefühls auf Grund gleichen Wesens und gleicher Art
+In file: Input/BookClean2300.txt
+Found at index 2 at line no. 61
+
+Pattern:  Staates das Vorhandensein eines bestimmten Zusammengehörigkeitsgefühls auf Grund gleichen Wesens und gleicher Art
+In file: Input/BookClean2300.txt
+Found at index 51 at line no. 63
+
+Pattern:  Staates das Vorhandensein eines bestimmten Zusammengehörigkeitsgefühls auf Grund gleichen Wesens und gleicher Art
+In file: Input/BookClean2300.txt
+Found at index 25 at line no. 71
+
+Pattern:  Staates das Vorhandensein eines bestimmten Zusammengehörigkeitsgefühls auf Grund gleichen Wesens und gleicher Art
+In file: Input/BookClean2300.txt
+Found at index 30 at line no. 72
+
+Pattern:  Staates das Vorhandensein eines bestimmten Zusammengehörigkeitsgefühls auf Grund gleichen Wesens und gleicher Art
+In file: Input/BookClean2300.txt
+Found at index 66 at line no. 74
+
+Pattern:  Staates das Vorhandensein eines bestimmten Zusammengehörigkeitsgefühls auf Grund gleichen Wesens und gleicher Art
+In file: Input/BookClean2300.txt
+Found at index 18 at line no. 85
+
+Pattern:  Staates das Vorhandensein eines bestimmten Zusammengehörigkeitsgefühls auf Grund gleichen Wesens und gleicher Art
+In file: Input/BookClean2300.txt
+Found at index 20 at line no. 88
+
+Pattern:  Staates das Vorhandensein eines bestimmten Zusammengehörigkeitsgefühls auf Grund gleichen Wesens und gleicher Art
+In file: Input/BookClean2300.txt
+Found at index 14 at line no. 89
+
+Pattern:  Staates das Vorhandensein eines bestimmten Zusammengehörigkeitsgefühls auf Grund gleichen Wesens und gleicher Art
+In file: Input/BookClean2300.txt
+Found at index 66 at line no. 91
+
+Pattern:  Staates das Vorhandensein eines bestimmten Zusammengehörigkeitsgefühls auf Grund gleichen Wesens und gleicher Art
+In file: Input/BookClean2300.txt
+Found at index 44 at line no. 93
+
+Pattern:  Staates das Vorhandensein eines bestimmten Zusammengehörigkeitsgefühls auf Grund gleichen Wesens und gleicher Art
+In file: Input/BookClean2300.txt
+Found at index 28 at line no. 95
+
+Pattern:  Staates das Vorhandensein eines bestimmten Zusammengehörigkeitsgefühls auf Grund gleichen Wesens und gleicher Art
+In file: Input/BookClean2300.txt
+Found at index 54 at line no. 96
+
+Pattern:  Staates das Vorhandensein eines bestimmten Zusammengehörigkeitsgefühls auf Grund gleichen Wesens und gleicher Art
+In file: Input/BookClean2300.txt
+Found at index 25 at line no. 101
+
+Pattern:  Staates das Vorhandensein eines bestimmten Zusammengehörigkeitsgefühls auf Grund gleichen Wesens und gleicher Art
+In file: Input/BookClean2300.txt
+Found at index 26 at line no. 102
+
+Pattern:  Staates das Vorhandensein eines bestimmten Zusammengehörigkeitsgefühls auf Grund gleichen Wesens und gleicher Art
+In file: Input/BookClean2300.txt
+Found at index 58 at line no. 103
+
+Pattern:  Staates das Vorhandensein eines bestimmten Zusammengehörigkeitsgefühls auf Grund gleichen Wesens und gleicher Art
+In file: Input/BookClean2300.txt
+Found at index 111 at line no. 105
+
+Pattern:  Staates das Vorhandensein eines bestimmten Zusammengehörigkeitsgefühls auf Grund gleichen Wesens und gleicher Art
+In file: Input/BookClean2300.txt
+Found at index 40 at line no. 106
+
+Pattern:  Staates das Vorhandensein eines bestimmten Zusammengehörigkeitsgefühls auf Grund gleichen Wesens und gleicher Art
+In file: Input/BookClean2300.txt
+Found at index 30 at line no. 115
+
+Pattern:  Staates das Vorhandensein eines bestimmten Zusammengehörigkeitsgefühls auf Grund gleichen Wesens und gleicher Art
+In file: Input/BookClean2300.txt
+Found at index 7 at line no. 116
+
+Pattern:  Staates das Vorhandensein eines bestimmten Zusammengehörigkeitsgefühls auf Grund gleichen Wesens und gleicher Art
+In file: Input/BookClean2300.txt
+Found at index 11 at line no. 119
+
+Pattern:  Staates das Vorhandensein eines bestimmten Zusammengehörigkeitsgefühls auf Grund gleichen Wesens und gleicher Art
+In file: Input/BookClean2300.txt
+Found at index 30 at line no. 120
+
+Pattern:  Staates das Vorhandensein eines bestimmten Zusammengehörigkeitsgefühls auf Grund gleichen Wesens und gleicher Art
+In file: Input/BookClean2300.txt
+Found at index 59 at line no. 123
+
+Pattern:  Staates das Vorhandensein eines bestimmten Zusammengehörigkeitsgefühls auf Grund gleichen Wesens und gleicher Art
+In file: Input/BookClean2300.txt
+Found at index 35 at line no. 124
+
+Pattern:  Staates das Vorhandensein eines bestimmten Zusammengehörigkeitsgefühls auf Grund gleichen Wesens und gleicher Art
+In file: Input/BookClean2300.txt
+Found at index 24 at line no. 129
+
+Pattern:  Staates das Vorhandensein eines bestimmten Zusammengehörigkeitsgefühls auf Grund gleichen Wesens und gleicher Art
+In file: Input/BookClean2300.txt
+Found at index 79 at line no. 134
+
+Pattern:  Staates das Vorhandensein eines bestimmten Zusammengehörigkeitsgefühls auf Grund gleichen Wesens und gleicher Art
+In file: Input/BookClean2300.txt
+Found at index 27 at line no. 135
+
+Pattern:  Staates das Vorhandensein eines bestimmten Zusammengehörigkeitsgefühls auf Grund gleichen Wesens und gleicher Art
+In file: Input/BookClean2300.txt
+Found at index 8 at line no. 136
+
+Pattern:  Staates das Vorhandensein eines bestimmten Zusammengehörigkeitsgefühls auf Grund gleichen Wesens und gleicher Art
+In file: Input/BookClean2300.txt
+Found at index 2 at line no. 138
+
+Pattern:  Staates das Vorhandensein eines bestimmten Zusammengehörigkeitsgefühls auf Grund gleichen Wesens und gleicher Art
+In file: Input/BookClean2300.txt
+Found at index 51 at line no. 140
+
+Pattern:  Staates das Vorhandensein eines bestimmten Zusammengehörigkeitsgefühls auf Grund gleichen Wesens und gleicher Art
+In file: Input/BookClean2300.txt
+Found at index 25 at line no. 148
+
+Pattern:  Staates das Vorhandensein eines bestimmten Zusammengehörigkeitsgefühls auf Grund gleichen Wesens und gleicher Art
+In file: Input/BookClean2300.txt
+Found at index 30 at line no. 149
+
+Pattern:  Staates das Vorhandensein eines bestimmten Zusammengehörigkeitsgefühls auf Grund gleichen Wesens und gleicher Art
+In file: Input/BookClean2300.txt
+Found at index 66 at line no. 151
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 39 at line no. 0
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 60 at line no. 1
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 26 at line no. 3
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 94 at line no. 4
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 57 at line no. 5
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 82 at line no. 6
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 61 at line no. 7
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 130 at line no. 8
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 54 at line no. 9
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 40 at line no. 10
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 130 at line no. 11
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 141 at line no. 12
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 62 at line no. 13
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 177 at line no. 14
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 74 at line no. 15
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 156 at line no. 16
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 84 at line no. 17
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 139 at line no. 18
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 122 at line no. 19
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 53 at line no. 20
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 99 at line no. 21
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 48 at line no. 22
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 34 at line no. 23
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 146 at line no. 24
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 158 at line no. 25
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 191 at line no. 26
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 4 at line no. 27
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 240 at line no. 28
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 146 at line no. 29
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 70 at line no. 30
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 81 at line no. 31
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 54 at line no. 32
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 81 at line no. 34
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 18 at line no. 35
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 59 at line no. 36
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 42 at line no. 37
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 124 at line no. 38
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 103 at line no. 39
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 87 at line no. 41
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 129 at line no. 42
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 118 at line no. 43
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 169 at line no. 46
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 136 at line no. 47
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 78 at line no. 48
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 78 at line no. 49
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 138 at line no. 52
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 47 at line no. 55
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 119 at line no. 56
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 189 at line no. 57
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 138 at line no. 58
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 119 at line no. 59
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 72 at line no. 60
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 108 at line no. 61
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 53 at line no. 62
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 153 at line no. 63
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 25 at line no. 64
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 63 at line no. 68
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 24 at line no. 69
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 45 at line no. 70
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 136 at line no. 71
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 106 at line no. 72
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 56 at line no. 73
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 166 at line no. 74
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 74 at line no. 75
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 46 at line no. 76
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 39 at line no. 77
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 60 at line no. 78
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 26 at line no. 80
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 94 at line no. 81
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 57 at line no. 82
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 82 at line no. 83
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 61 at line no. 84
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 130 at line no. 85
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 54 at line no. 86
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 40 at line no. 87
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 130 at line no. 88
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 141 at line no. 89
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 62 at line no. 90
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 177 at line no. 91
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 74 at line no. 92
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 156 at line no. 93
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 84 at line no. 94
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 139 at line no. 95
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 122 at line no. 96
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 53 at line no. 97
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 99 at line no. 98
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 48 at line no. 99
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 34 at line no. 100
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 146 at line no. 101
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 158 at line no. 102
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 191 at line no. 103
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 4 at line no. 104
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 240 at line no. 105
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 146 at line no. 106
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 70 at line no. 107
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 81 at line no. 108
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 54 at line no. 109
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 81 at line no. 111
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 18 at line no. 112
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 59 at line no. 113
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 42 at line no. 114
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 124 at line no. 115
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 103 at line no. 116
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 87 at line no. 118
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 129 at line no. 119
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 118 at line no. 120
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 169 at line no. 123
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 136 at line no. 124
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 78 at line no. 125
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 78 at line no. 126
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 138 at line no. 129
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 47 at line no. 132
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 119 at line no. 133
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 189 at line no. 134
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 138 at line no. 135
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 119 at line no. 136
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 72 at line no. 137
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 108 at line no. 138
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 53 at line no. 139
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 153 at line no. 140
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 25 at line no. 141
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 63 at line no. 145
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 24 at line no. 146
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 45 at line no. 147
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 136 at line no. 148
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 106 at line no. 149
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 56 at line no. 150
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 166 at line no. 151
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 74 at line no. 152
+
+Pattern: Systems
+In file: Input/BookClean2300.txt
+Found at index 46 at line no. 153
+
+Pattern:  CHAP
+In file: Input/BookClean2300.txt
+Found at index 83 at line no. 20
+
+Pattern:  CHAP
+In file: Input/BookClean2300.txt
+Found at index 40 at line no. 68
+
+Pattern:  CHAP
+In file: Input/BookClean2300.txt
+Found at index 83 at line no. 97
+
+Pattern:  CHAP
+In file: Input/BookClean2300.txt
+Found at index 40 at line no. 145
+
+
+Total time to Analyse the file using Naive Algorithm: 
+137.0ms
+No of comparisons: 1767880

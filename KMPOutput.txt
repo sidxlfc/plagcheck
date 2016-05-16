@@ -1,0 +1,46 @@
+KMP Output:
+
+Pattern: In principle, even within a single system, they could range from high-performance mainframe computers to small nodes in sensor networks
+In file: Input/BookClean2300.txt
+Found at index 1 at line no. 8
+
+Pattern: In principle, even within a single system, they could range from high-performance mainframe computers to small nodes in sensor networks
+In file: Input/BookClean2300.txt
+Found at index 1 at line no. 85
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 1 at line no. 9
+
+Pattern: Likewise, no assumptions are made on the way that computers are interconnected
+In file: Input/BookClean2300.txt
+Found at index 1 at line no. 86
+
+Pattern:  The main goal of a distributed system is to make it easy for the users (and applications) to access remote resources, and to share them in a controlled and efficient way
+In file: Input/BookClean2300.txt
+Found at index 1 at line no. 19
+
+Pattern:  The main goal of a distributed system is to make it easy for the users (and applications) to access remote resources, and to share them in a controlled and efficient way
+In file: Input/BookClean2300.txt
+Found at index 1 at line no. 96
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 0 at line no. 71
+
+Pattern:  Distributed
+In file: Input/BookClean2300.txt
+Found at index 0 at line no. 148
+
+Pattern:  CHAP
+In file: Input/BookClean2300.txt
+Found at index 82 at line no. 20
+
+Pattern:  CHAP
+In file: Input/BookClean2300.txt
+Found at index 82 at line no. 97
+
+
+Total time to Analyse the file using KMP Algorithm: 
+11.0ms
+No of comparisons: 158468
